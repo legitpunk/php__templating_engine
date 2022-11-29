@@ -1,0 +1,5 @@
+.p__class2{
+	font-size:(V->p__fontsize);
+	font-family:(V->p__fontfamily);
+	color:(S[varname]S);
+}

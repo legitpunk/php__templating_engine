@@ -1,0 +1,7 @@
+p{
+	font-size:1rem;
+}
+p{
+	font-size:(V->p__fontsize);
+	font-family:(V->p__fontfamily);
+}

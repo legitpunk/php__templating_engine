@@ -1,0 +1,10 @@
+<?php ?>
+
+<content>
+	<div id="<?= $div_id; ?>" class="<?= $div_class; ?>">
+		<p class="<?= $p_class; ?>">the wind in the  willows</p>
+	</div>
+	<button id="<?= $button_id; ?>" class="<?= $button_class; ?>" onclick="<?= $onclick; ?>">
+		<p class="<?= $p_class; ?>">button for willows</p>
+	</button>
+</content>
